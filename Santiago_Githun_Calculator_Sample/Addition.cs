@@ -10,7 +10,7 @@ namespace Santiago_Githun_Calculator_Sample
     {
         public double Add (double num1, double num2) 
         {
-            return num1 + num2; //this function Add the number in calculator
+            return num1 + num2; //this function Add the number in calculator.
         }
     }
 }
