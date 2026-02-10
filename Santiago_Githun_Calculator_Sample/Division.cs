@@ -10,7 +10,7 @@ namespace Santiago_Githun_Calculator_Sample
     {
         public double division(double num1, double num2)
         {
-            return num1 / num2;//this function divides the number in calculator
+            return num1 / num2;//this function divides the numbers in calculator
         }
     }
 }
